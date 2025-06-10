@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/waruta/completeness/images/apple pie.jpg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/waruta/completeness/images/apie_logo.jpg">
+    <img src="https://github.com/waruta/completeness/images/apie_logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
