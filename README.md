@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="images/apple pie.jpg">
+  <a href="https://github.com/waruta/completeness/images/apple pie.jpg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
