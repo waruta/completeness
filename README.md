@@ -3,7 +3,9 @@ This open-source Grasshopper script enables the generation of continuous, user-d
 
 By emphasizing continuity in toolpaths, this approach reduces retraction and support material, enabling more efficient, sustainable, and large-scale fabrication workflows.
 
-✨ Features
+---
+
+##✨ Features
 🌀 Continuous toolpath generation for various lattice geometries
 
 🧱 Optimized for extrusion-based pellet printers (e.g., screw extruders)
@@ -14,7 +16,9 @@ By emphasizing continuity in toolpaths, this approach reduces retraction and sup
 
 🎓 Designed for experimental, architectural, and artistic exploration
 
-🔧 Requirements
+---
+
+##🔧 Requirements
 Rhino 7 or later
 
 Grasshopper
@@ -23,7 +27,9 @@ Robots or other optional plugins for geometry operations
 
 Extrusion-based pellet printer (or simulation tools for path testing)
 
-🚀 Getting Started
+---
+
+##🚀 Getting Started
 Download or clone this repository.
 
 Open the .gh file in Grasshopper.
