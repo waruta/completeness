@@ -71,4 +71,4 @@ G-code basics for extrusion printers
 ---
 
 🛠 License
-This project is licensed under the AGPL-3.0 license.
+This project is licensed under the GNU GPLv3 license.
