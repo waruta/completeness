@@ -42,7 +42,8 @@ Export G-code or toolpath data for your specific printer.
 
 📸 Example Outputs
 
-![Lattice Preview](images/9x9 Closeup 4.jpg)
+![Lattice Toolpath Preview](images/9x9_Closeup_4.jpg)
+
 
 ---
 
