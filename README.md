@@ -5,7 +5,7 @@ By emphasizing continuity in toolpaths, this approach reduces retraction and sup
 
 ---
 
-##✨ Features
+✨ Features
 🌀 Continuous toolpath generation for various lattice geometries
 
 🧱 Optimized for extrusion-based pellet printers (e.g., screw extruders)
@@ -18,7 +18,7 @@ By emphasizing continuity in toolpaths, this approach reduces retraction and sup
 
 ---
 
-##🔧 Requirements
+🔧 Requirements
 Rhino 7 or later
 
 Grasshopper
@@ -29,7 +29,7 @@ Extrusion-based pellet printer (or simulation tools for path testing)
 
 ---
 
-##🚀 Getting Started
+🚀 Getting Started
 Download or clone this repository.
 
 Open the .gh file in Grasshopper.
@@ -38,10 +38,13 @@ Define your lattice geometry and toolpath parameters.
 
 Export G-code or toolpath data for your specific printer.
 
+---
+
 📸 Example Outputs
 
-(images/9x9 Closeup 4.jpg)
+![Lattice Preview](images/9x9 Closeup 4.jpg)
 
+---
 
 🤝 Partners & Collaborators
 This project was developed in collaboration with:
@@ -54,12 +57,16 @@ This project was developed in collaboration with:
 
 If you'd like to collaborate or integrate this workflow into your own process, feel free to reach out or open an issue.
 
+---
+
 📚 References
 The Different Design (2021). How To Program An Industrial Robot (Grasshopper Tutorial).
 
 Grasshopper Primer – Essential resource for getting started with parametric design.
 
 G-code basics for extrusion printers
+
+---
 
 🛠 License
 This project is licensed under the AGPL-3.0 license.
