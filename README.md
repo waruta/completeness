@@ -45,11 +45,15 @@ Export G-code or toolpath data for your specific printer.
 🤝 Partners & Collaborators
 This project was developed in collaboration with:
 
-[Wong, Kee Zhang] – Software and process consultation
+[Wong, Kee Zhang] – Software and Process consultation
 
 [Wouter A. van Hest] – Research, Development and Application in printing
 
 [Nihal Tamang] – Research support
+
+[ABB Pte Ltd] - Hardware and Robotics support
+
+[REV3RD] - Hardware and Print support
 
 If you'd like to collaborate or integrate this workflow into your own process, feel free to reach out or open an issue.
 
