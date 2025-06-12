@@ -33,7 +33,8 @@ Define your lattice geometry and toolpath parameters.
 Export G-code or toolpath data for your specific printer.
 
 📸 Example Outputs
-![Lattice Toolpath Preview](images/9x9 Closeup 4.jpg)
+
+(images/9x9 Closeup 4.jpg)
 
 
 🤝 Partners & Collaborators
